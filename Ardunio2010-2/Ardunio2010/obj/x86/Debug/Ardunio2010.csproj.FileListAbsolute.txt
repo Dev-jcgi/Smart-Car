@@ -1,0 +1,68 @@
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\bin\Debug\Ardunio2010.exe
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\bin\Debug\Ardunio2010.pdb
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+c:\documents and settings\ususario\mis documentos\visual studio 2010\Projects\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\bin\Debug\Ardunio2010.exe
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\bin\Debug\Ardunio2010.pdb
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Inteligencia_Artificial\Proyecto Carro\Ardunio2010\Ardunio2010\obj\x86\Debug\GenerateResource.write.1.tlog
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+W:\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+W:\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csproj.GenerateResource.Cache
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csprojResolveAssemblyReference.cache
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sony Vaio\Documents\Inteligencia_Artificial\Ardunio2010-2\Ardunio2010\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+F:\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+F:\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csprojResolveAssemblyReference.cache
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csproj.GenerateResource.Cache
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.exe
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\bin\Debug\Ardunio2010.pdb
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Form1.resources
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.Properties.Resources.resources
+E:\LeonSK97\upslp\7 semestre\ia\Ardunio2010-2\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.csproj.GenerateResource.Cache
+C:\Users\JC\Downloads\Carro inteligente\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.exe
+C:\Users\JC\Downloads\Carro inteligente\Ardunio2010-2\Ardunio2010\obj\x86\Debug\Ardunio2010.pdb

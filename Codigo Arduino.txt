@@ -1,0 +1,51 @@
+﻿int adelante = 6;               // Pin digital al que conectamos el swith de adelnate
+int atras = 7;                // Pin digital al que conectamos el swith de atras
+int derecha = 8;               // Pin digital al que conectamos el swith de derecha
+int izquierda = 9;              // Pin digital al que conectamos el swith de izqueirda
+ 
+void setup() {                
+  pinMode(adelante, OUTPUT);     // Configración del pin 50 como salida
+  pinMode(atras, OUTPUT);      // Configración del pin 46 como salida
+  pinMode(derecha, OUTPUT);     // Configración del pin 42 como salida
+  pinMode(izquierda, OUTPUT);    // Configración del pin 38 como salida
+  Serial.begin(9600);
+}
+void apagar()
+{
+  digitalWrite(adelante, LOW);
+  digitalWrite(atras, LOW);
+  digitalWrite(derecha, LOW);
+  digitalWrite(izquierda, LOW);
+}
+void loop()
+{
+  if(Serial.available())
+  {
+    int c= Serial.read();
+	apagar();
+	switch(c)
+	{
+	  case '1':
+	   digitalWrite(adelante, HIGH); break;
+	  case '2':
+	   digitalWrite(atras, HIGH); break;
+	  case '4':
+	   digitalWrite(derecha, HIGH); break;
+	  case '8':
+	   digitalWrite(izquierda, HIGH); break;
+	  case '5':
+	   digitalWrite(adelante, HIGH); 
+	   digitalWrite(derecha, HIGH); break;
+	  case '9':
+	   digitalWrite(adelante, HIGH); 
+	   digitalWrite(izquierda, HIGH); break;
+	  case '6':
+	   digitalWrite(atras, HIGH); 
+	   digitalWrite(derecha, HIGH); break;
+	  case 'A':
+	   digitalWrite(atras, HIGH); 
+	   digitalWrite(izquierda, HIGH); break;
+	}
+  }
+
+}

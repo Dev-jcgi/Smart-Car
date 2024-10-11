@@ -1,0 +1,14 @@
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\bin\Release\Ardunio2010.exe
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\bin\Release\Ardunio2010.pdb
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.Form1.resources
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.Properties.Resources.resources
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.csproj.GenerateResource.Cache
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.exe
+C:\Users\electronik\Desktop\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.pdb
+F:\Ardunio2010-2\Ardunio2010\bin\Release\Ardunio2010.exe
+F:\Ardunio2010-2\Ardunio2010\bin\Release\Ardunio2010.pdb
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.Form1.resources
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.Properties.Resources.resources
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.csproj.GenerateResource.Cache
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.exe
+F:\Ardunio2010-2\Ardunio2010\obj\x86\Release\Ardunio2010.pdb
