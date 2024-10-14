@@ -13,10 +13,10 @@
 ---
 ## Table of Contents
 
-- [Project development](#Project development)
-- [Non-deterministic finite automaton (AFND)](#Non-deterministic finite automaton (AFND))
-- [Search algorithms](#Search algorithms) 
-- [Results](#results) 
+- # Project development
+- # Non-deterministic finite automaton (AFND))
+- # Search algorithms) 
+- # Results
 
 ---
 
